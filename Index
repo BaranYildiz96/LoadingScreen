@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Loader</title>
+	
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	
+	<link rel="stylesheet" href="loader.css">
+</head>
+<body>
+<div id="banner-message">
+ <button id="show" >Show</button>
+</div>
+
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    
+<div id="picturex" hidden >
+ <img id="nautilusloader" src="https://i.hizliresim.com/O44ezs.png"  />
+</div>
+
+ <div id="loadingtext" style="margin-top:50px; text-align:center;" hidden >Loading </div>
+    
+  </div>
+  
+</div>
+</body>
+<script src="loader.js"></script>
+</html>
