@@ -1,0 +1,12 @@
+Bu proje bir yükleme ekranı animasyonu çalışmasıdır.Yükleme ekranının nasıl gözükeceğine dair bir demo yapmak amacıyla hazırlanmıştır.
+Bu proje Notepad++ üzerinden geliştirildi.
+Demoyu çalıştırabilmek için aşağıdaki adımları izleyiniz.
+Adımlar:
+1.Index dosyası bir HTML dosyasıdır.Bir HTML projesi açıp kodu taşıyın.
+2.loader.js dosyası bir Javascript dosyasıdır.Bir javascript proje dosyası açın kodu taşıyın ve Index.html dosyası ile bağlantıyı sağlayabilmek için aynı compiler içine yüklemeniz tavsiye olunur.
+HTML sayfasındaki <script src="loader.js"></script>kodu sizin HTML sayfanız üzerinden bu loader.js dosyasına erişimini sağlar.
+3.loader.css dosyası bir Css doyasıdır.Bir css proje dosyası açıp kodu taşıyın ve Index.html ve loader.js ile bağlantıyı sağlayabilmek için aynı yere yükleyin.
+HTML sayfasındaki <link rel="stylesheet" href="loader.css"> kodu sizin HTML sayfanız üzerinden bu loader.css dosyasına erişimini sağlar.
+4.Bir "Loader" adını verdiğiniz bir klasör yaratın ve Index.html , loader.js ve loader.css dosyalarını aynı klasörün içine atın.
+5.Hepsini aynı Compiler içinde kaydettikten Loader klasörüne yüklediğiniz Index.html dosyasını çalıştırın.
+6.Index sayfası açıldıktan sonra Show butonuna tıklayın.Loader adındaki lading ekranı ile beraber resmin çalıştğını göreceksiniz.Eğer resmi göremiyorsanız nautilus.jpg adındaki resim dosyasını indirin ve Loader klasörüne attıktan sonra Index dosyasına kaynak olarak gösterin.
