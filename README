@@ -1,6 +1,13 @@
 Bu proje bir yükleme ekranı animasyonu çalışmasıdır.Yükleme ekranının nasıl gözükeceğine dair bir demo yapmak amacıyla hazırlanmıştır.
 Bu proje Notepad++ üzerinden geliştirildi.
-Demoyu çalıştırabilmek için aşağıdaki adımları izleyiniz.
+Demoyu çalıştımak için aşağıdaki adımları izleyiniz.
+1.Projeyi indirmek için yukarıdaki Code butonuna tıklayın.
+2.Downoad ZIP sekmesine tıklayın.
+3.Yükeldiğiniz zip dosyasını masaütüne atın ve açın.
+4.Index dosyasını herhangi bir tarayıcı üzerinden çalıştırın.
+5.Index sayfası açıldıktan sonra Show butonuna tıklayın.Loader adındaki lading ekranı ile beraber resmin çalıştğını göreceksiniz.
+
+Demo üzerinde değişiklik yapmak için için aşağıdaki adımları izleyiniz.
 Adımlar:
 1.Index dosyası bir HTML dosyasıdır.Bir HTML projesi açıp kodu taşıyın.
 2.loader.js dosyası bir Javascript dosyasıdır.Bir javascript proje dosyası açın kodu taşıyın ve Index.html dosyası ile bağlantıyı sağlayabilmek için aynı compiler içine yüklemeniz tavsiye olunur.
